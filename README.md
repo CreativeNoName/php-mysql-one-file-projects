@@ -3,3 +3,5 @@
 # Also second row
 # Also second row
 # Revert example
+# New line 1
+# New line 2
